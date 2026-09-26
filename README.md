@@ -1,5 +1,18 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.tolidimohtava.ir/new-logo-dark.png">
+  <img src="https://www.tolidimohtava.ir/newlog.png" alt="tolidimohtava" width="200">
+</picture>
+
+### سپهر حداد 🎬📹💻👨‍💻👨‍💼
+
+از سفارش تا تحویل، تولید محتوای حرفه‌ای با هوش مصنوعی + ادیتور انسانی.
+
+https://www.tolidimohtava.ir
+
+---
+
 # سپهر حداد · Sepehr Haddad
 
 ### بنیان‌گذار و مدیرعامل [تولیدی‌محتوا](https://www.tolidimohtava.ir) 🎬 · Founder & CEO of [tolidimohtava.ir](https://www.tolidimohtava.ir)
@@ -22,15 +35,19 @@
 
 ## درباره‌ام
 
+<img src="https://www.tolidimohtava.ir/newlog.png" alt="تولیدی‌محتوا" width="140" align="left" style="margin-left:16px">
+
 توسعه‌دهنده و پژوهشگر امنیت با نزدیک به دو دهه کار روی وب و زیرساخت، و امروز بنیان‌گذار و مدیرعامل **تولیدی‌محتوا**. مسیرم از دنیای فول‌استک و امنیت شروع شد و به ساختن یک پلتفرم کامل — از موتور سناریوی هوش‌مصنوعی تا بازار کار ادیتورها — رسید.
+
+<br clear="left">
 
 **پیش از تولیدی‌محتوا:**
 - توسعه‌دهنده‌ی فول‌استک در **[@viraintel](https://github.com/viraintel)** — وب‌سایت شخصی/کاری: **[shandroid.ir](http://shandroid.ir)**
-- پژوهش و ابزارسازی امنیتی — بروت‌فورس، مبهم‌سازی شل‌کد، پژوهش روی حملات روز-صفر (فهرست کامل در بخش «سابقه‌ی کاری» پایین همین صفحه)
+- پژوهش و ابزارسازی امنیتی — بروت‌فورس، مبهم‌سازی شل‌کد، پژوهش روی حملات روز-صفر (فهرست کامل و تاریخ‌دار در بخش «سابقه‌ی کاری قدیمی‌تر» پایین همین صفحه)
 
 **تخصص‌ها و تکنولوژی‌هایی که روزانه باهاشون کار می‌کنم:**
 
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker / Docker Compose` `Nginx` `Linux Server Administration` `Next.js` `React` `TypeScript` `TailwindCSS` `Radix UI` `Zustand` `Telegram Bot API` `یکپارچه‌سازی مدل‌های زبانی/AI` `طراحی و مدیریت پایگاه‌داده` `امنیت وب و رفع هک`
+`پایتون` `فست‌ای‌پی‌آی` `پستگرس‌کیوال` `اس‌کیو‌ال‌الکمی` `آلامبیک` `داکر / داکر کامپوز` `انجین‌ایکس` `مدیریت سرور لینوکس` `نکست‌جی‌اس` `ری‌اکت` `تایپ‌اسکریپت` `تیلویند سی‌اس‌اس` `رادیکس یوآی` `زوستند` `ای‌پی‌آی بات تلگرام` `یکپارچه‌سازی مدل‌های هوش مصنوعی` `طراحی و مدیریت پایگاه‌داده` `امنیت وب و رفع هک`
 
 **امروز چی می‌سازم:** یک پلتفرم آنلاین که تولید محتوای حرفه‌ای رو برای کسب‌وکارهای کوچیک ایرانی در دسترس می‌کنه — سفارش، پرداخت، تیم تخصصی و تحویل، همه داخل یک پنل. زیرمجموعه‌های پلتفرم:
 
@@ -42,11 +59,11 @@
 
 یکی از خفن‌ترین بخش‌های تولیدی‌محتوا. آی‌دی پیج اینستاگرامت رو می‌دی؛ سیستم **پست‌های خودت + ۱۰ پیج نیچت رو هر روز می‌خونه**، ترند همون هفته رو روش پیاده می‌کنه، و **هر روز ۳ سناریوی ریل + ۳ سناریوی استوری** — پلان‌به‌پلان، آماده‌ی ضبط — تحویلت می‌ده. نه حدس، نه الگوی کلی؛ بر اساس برد واقعی پست‌های خودت، بهترین روز و ساعت انتشار، و قلاب‌هایی که واقعاً جواب دادن.
 
-- 📊 **می‌خونیم** → برد واقعی، بهترین زمان انتشار، قلاب‌های برنده/بازنده از روی داده‌ی خودت
-- 🗺️ **نقشه‌ی محتوا می‌سازیم** → موضوع بعدی چی باشه و چرا
-- 🎬 **سناریوی آماده‌ی ضبط** → چی بگی، چی نشون بدی، چند ثانیه، کپشن و هشتگ — برداری و بری جلوی دوربین
+- 📊 **می‌خونیم** ← برد واقعی، بهترین زمان انتشار، قلاب‌های برنده/بازنده از روی داده‌ی خودت
+- 🗺️ **نقشه‌ی محتوا می‌سازیم** ← موضوع بعدی چی باشه و چرا
+- 🎬 **سناریوی آماده‌ی ضبط** ← چی بگی، چی نشون بدی، چند ثانیه، کپشن و هشتگ — برداری و بری جلوی دوربین
 
-از ماهی ۱ میلیون تومان · **[امتحانش کن →](https://www.tolidimohtava.ir/scenario/)**
+از ماهی ۱ میلیون تومان · **[امتحانش کن ←](https://www.tolidimohtava.ir/scenario/)**
 
 ---
 
@@ -70,7 +87,7 @@
 | ⚡ **آنی** | تسویه، بلافاصله بعد از تحویل — نه چرخه‌ی حقوق ماهانه |
 | 🧪 **آزمون عملی** | ورود فقط از مسیر تست، نه رزومه |
 
-توی ۲۱ شاخه‌ی تولید محتوا، ظرفیت پذیرش عضو جدید محدوده. **[همین حالا تست بده →](https://www.tolidimohtava.ir/hire/)**
+توی ۲۱ شاخه‌ی تولید محتوا، ظرفیت پذیرش عضو جدید محدوده. **[همین حالا تست بده ←](https://www.tolidimohtava.ir/hire/)**
 
 ---
 
@@ -86,25 +103,66 @@
 | ریلز آموزشی زیبایی · ۵۰۰,۰۰۰ تومان | ریلز آموزشی · ۵۰۰,۰۰۰ تومان | ریلز آموزشی زیبایی · ۵۰۰,۰۰۰ تومان |
 | ![ریلز پزشکی](https://api.tolidimohtava.ir/api/v1/files/587f9fdb-940a-4c70-b6c5-eca64576fc30/thumbnail) | ![ریلز پزشکی](https://api.tolidimohtava.ir/api/v1/files/7fb618fc-a42d-49a2-8b5a-07a5f7e44323/thumbnail) | ![ریلز پزشکی](https://api.tolidimohtava.ir/api/v1/files/5174e8d0-2196-4790-8ec2-a2a6ef806c9d/thumbnail) |
 | ریلز پزشکی · ۵۰۰,۰۰۰ تومان | ریلز پزشکی · ۵۰۰,۰۰۰ تومان | ریلز پزشکی · ۵۰۰,۰۰۰ تومان |
-| ![ریلز زیبایی](https://api.tolidimohtava.ir/api/v1/files/6a0aa49a-0f40-41b6-acef-a9235ab6c1d4/thumbnail) | ![ریلز زیبایی](https://api.tolidimohtava.ir/api/v1/files/eab61306-c5ea-4e4d-97e7-968607c909c6/thumbnail) | ![پست معرفی کتاب](https://api.tolidimohtava.ir/api/v1/files/6944282c-cedb-456d-abf9-4f9527aaf4c4/thumbnail) |
-| ریلز زیبایی · ۵۰۰,۰۰۰ تومان | ریلز زیبایی · ۵۰۰,۰۰۰ تومان | پست معرفی کتاب · ۸۹۴,۰۰۰ تومان |
+| ![ریلز زیبایی](https://api.tolidimohtava.ir/api/v1/files/6a0aa49a-0f40-41b6-acef-a9235ab6c1d4/thumbnail) | ![ریلز زیبایی](https://api.tolidimohtava.ir/api/v1/files/eab61306-c5ea-4e4d-97e7-968607c909c6/thumbnail) | ![ریلز زیبایی](https://api.tolidimohtava.ir/api/v1/files/d6b74753-d39a-4c0f-88c8-454f15c5a7bc/thumbnail) |
+| ریلز زیبایی · ۵۰۰,۰۰۰ تومان | ریلز زیبایی · ۵۰۰,۰۰۰ تومان | ریلز زیبایی · ۵۰۰,۰۰۰ تومان |
 
-**[+ ۸۱ نمونه‌کار دیگه →](https://www.tolidimohtava.ir/samples-all/)**
+**[+ ۸۱ نمونه‌کار دیگه ←](https://www.tolidimohtava.ir/samples-all/)**
 
 </div>
 
-### 🌐 نمونه‌کارهای طراحی سایت (سایت اختصاصی، نه وردپرس)
+### 🌐 طراحی سایت — اختصاصی، پی‌دبلیو‌ای و وردپرسی
 
-نمونه‌کار زنده‌مون همین سایتیه که الان روشی — با FastAPI و React نوشته شده، نه وردپرس. چند نمونه از ۳۵ سایت اختصاصی که ساختیم (هرکدوم قابل بازدید زنده):
+طراحی سایت برامون فقط یه سرویس جانبی نیست، یه تخصص کامله:
 
-| پروژه | توضیح | لینک |
+- 🏗️ **سایت اختصاصی با پنل مدیریت اختصاصی** — از صفر برای کسب‌وکار خودت نوشته می‌شه: نه قالب، نه افزونه. سطح دسترسی کارمندها، اتصال به انبار و حسابداری، فروشگاه بزرگ — دقیقاً همون ابزاری که کارت بهش نیاز داره.
+- 📲 **قابلیت پی‌دبلیو‌ای (اپلیکیشن وب پیشرو)** — در صورت نیاز، سایتت رو جوری می‌سازیم که مثل یه اپ روی گوشی نصب بشه و حتی آفلاین هم کار کنه.
+- ⚙️ **استکی که باهاش کار می‌کنیم:** سمت سرور با پایتون و فست‌ای‌پی‌آی، سمت کاربر با نکست‌جی‌اس و ری‌اکت و تایپ‌اسکریپت، پایگاه‌داده‌ی پستگرس‌کیوال، روی سروری که خودمون مدیریتش می‌کنیم — نه هاست اشتراکی، نه قالب آماده.
+- 💰 **سایت وردپرسی** — اگه بودجه محدوده یا فقط یه صفحه‌ی معرفی/فروشگاه کوچیک لازم داری: قالب آماده که برای کسب‌وکارت شخصی‌سازی می‌شه، سریع و ارزون. مناسبِ معرفی کسب‌وکار، وبلاگ، لندینگ تبلیغاتی و فروشگاه کوچک.
+
+نمونه‌کار زنده‌مون همین سایتیه که الان روشی. **[سفارش سایت اختصاصی ←](https://www.tolidimohtava.ir/services/)** · **[سفارش سایت وردپرسی ←](https://www.tolidimohtava.ir/services/)**
+
+<details>
+<summary><b>مشاهده‌ی هر ۳۵ نمونه‌کار طراحی سایت (هرکدوم قابل بازدید زنده)</b></summary>
+
+| # | پروژه | لینک |
 |---|---|---|
-| ساراتی | فروشگاه زیورآلات و اکسسوری لوکس | [مشاهده زنده](https://demo.tolidimohtava.ir/p753137/) |
-| یدک‌گستر آریا | پخش عمده‌ی لوازم یدکی خودرو با کاتالوگ و استعلام قیمت | [مشاهده زنده](https://demo.tolidimohtava.ir/p753527/) |
-| سیگنال طلای آریان | لندینگ سرویس اشتراک سیگنال طلا | [مشاهده زنده](https://demo.tolidimohtava.ir/p754949/) |
-| آریان | تحلیل بازار طلا و مظنه‌ی آبشده | [مشاهده زنده](https://demo.tolidimohtava.ir/p755024/) |
-| وب‌آرا | لندینگ‌پیج فروش تک‌صفحه‌ای | [مشاهده زنده](https://demo.tolidimohtava.ir/p755489/) |
-| آرتاوب | لندینگ اختصاصی وردپرس/المنتور | [مشاهده زنده](https://demo.tolidimohtava.ir/p755579/) |
+| ۱ | ساراتی — زیورآلات و اکسسوری لوکس | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/sarati/) |
+| ۲ | یدک‌گستر آریا — پخش لوازم یدکی خودرو | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/yadak-gostar-aria/) |
+| ۳ | سیگنال طلای آریان — سیگنال خرید و فروش | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/arian-gold-signal/) |
+| ۴ | آریان — تحلیل طلا و مظنه‌ی آبشده | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/arian-gold-analytics/) |
+| ۵ | وب‌آرا — لندینگ‌پیج فروش تک‌صفحه‌ای | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/web-ara-landing/) |
+| ۶ | آرتاوب — لندینگ اختصاصی وردپرس و المنتور | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/artaweb-landing/) |
+| ۷ | کلینیک زیبایی آریانا | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/ariana-beauty-clinic/) |
+| ۸ | آکادمی موتورسواری شتاب | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/shetab-moto-academy/) |
+| ۹ | بازارینو — فروشگاه آنلاین چندمحصولی | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/bazarino-shop/) |
+| ۱۰ | گالری طلا مونامو | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/monamo-gold-gallery/) |
+| ۱۱ | نوین‌پرداز — راهکارهای فناوری و مشاوره | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/novin-pardaz/) |
+| ۱۲ | نوین‌وب — طراحی و ساختار وب‌سایت | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/novin-web/) |
+| ۱۳ | شیمی‌دان — آموزش شیمی کنکور | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/shimidan-academy/) |
+| ۱۴ | شاهنامه‌پژوهی آرش کیانی‌فر | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/shahnameh-pajoohi/) |
+| ۱۵ | ابرسان — خدمات زیرساخت ابری | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/abrasan-cloud/) |
+| ۱۶ | پارس اتوسرویس — قطعات و خدمات خودرو | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/pars-autoservice/) |
+| ۱۷ | هیوان — فروشگاه آنلاین پوشاک | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/hivan-clothing/) |
+| ۱۸ | نوین‌مارکت — فروشگاه اینترنتی | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/novin-market/) |
+| ۱۹ | رستوران‌یار — سامانه‌ی مدیریت رستوران | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/restaurant-yar/) |
+| ۲۰ | وب‌کاران — طراحی و توسعه‌ی وب‌سایت | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/webkaran/) |
+| ۲۱ | سنگ‌آرا — سنگ ساختمانی و دکوراتیو | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/sang-ara/) |
+| ۲۲ | جامبوبگ کیان — تولید کیسه‌های صنعتی | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/jumbobag-kian/) |
+| ۲۳ | آرتین شاپ — فروشگاه آنلاین | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/artin-shop/) |
+| ۲۴ | ویترین استودیو — ده فروشگاه ووکامرس | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/vitrin-studio/) |
+| ۲۵ | استودیو پویا — لندینگ خلاقانه با انیمیشن | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/pouya-studio/) |
+| ۲۶ | دیوان عطر — صفحه‌ی محصول تخصصی عطر | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/divan-atr/) |
+| ۲۷ | پارس‌ابزار — فروشگاه ابزارآلات | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/pars-abzar/) |
+| ۲۸ | کاریار — پلتفرم مدیریت کسب‌وکار | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/karyar/) |
+| ۲۹ | فرانگار — استودیو تولید محتوا | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/faranegar/) |
+| ۳۰ | خیریه دستان مهربان | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/dastan-mehraban/) |
+| ۳۱ | طب‌کالا — تجهیزات پزشکی | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/teb-kala/) |
+| ۳۲ | پارت‌یار — لوازم یدکی با ارسال سراسری | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/part-yar/) |
+| ۳۳ | استودیو راهبرد — برندسازی و دیجیتال مارکتینگ | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/rahbord-studio/) |
+| ۳۴ | گل‌برگ — محصولات طبیعی مراقبت پوست | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/golbarg-skincare/) |
+| ۳۵ | قاب‌نگار — طراحی رابط نمایشگرهای کوچک | [مشاهده](https://www.tolidimohtava.ir/web-design/portfolio/ghabnegar-ui/) |
+
+</details>
 
 ---
 
@@ -159,7 +217,7 @@
 
 | خدمت | شروع قیمت |
 |---|---|
-| موشن گرافیک 2D | ۳۴۹,۰۰۰ تومان |
+| موشن گرافیک دوبعدی | ۳۴۹,۰۰۰ تومان |
 | انیمیشن لوگو | ۲۴۹,۰۰۰ تومان |
 | ویدیو توضیحی | ۹۹۹,۰۰۰ تومان |
 </details>
@@ -169,9 +227,9 @@
 
 | خدمت | شروع قیمت |
 |---|---|
-| تولید ویدیو با AI | ۹۹,۰۰۰ تومان |
-| تولید تصویر با AI | ۴۹,۰۰۰ تومان |
-| تولید صدا با AI | ۳۹,۰۰۰ تومان |
+| تولید ویدیو با هوش مصنوعی | ۹۹,۰۰۰ تومان |
+| تولید تصویر با هوش مصنوعی | ۴۹,۰۰۰ تومان |
+| تولید صدا با هوش مصنوعی | ۳۹,۰۰۰ تومان |
 </details>
 
 <details>
@@ -205,7 +263,7 @@
 
 | خدمت | قیمت |
 |---|---|
-| سایت اختصاصی با CMS (نه قالب، نه افزونه) | ۱۵,۰۰۰,۰۰۰ تومان |
+| سایت اختصاصی با پنل مدیریت اختصاصی (نه قالب، نه افزونه) | ۱۵,۰۰۰,۰۰۰ تومان |
 | سایت وردپرسی | ۱۰,۰۰۰,۰۰۰ تومان |
 | ادمین سایت (ماهانه) | ۷,۵۰۰,۰۰۰ تومان/ماه |
 </details>
@@ -217,9 +275,9 @@
 |---|---|
 | ربات تلگرام و چت‌بات هوشمند | فروش، پشتیبانی یا نوبت‌دهی داخل تلگرام |
 | امنیت و پاکسازی سایت هک‌شده | سایت هک‌شده، ریدایرکت یا هشدار گوگل |
-| تکمیل پروژه‌ی نیمه‌کاره و رفع باگ | کد نیمه‌کاره، لاراول/پایتون/Node/ری‌اکت/وردپرس |
+| تکمیل پروژه‌ی نیمه‌کاره و رفع باگ | کد نیمه‌کاره، لاراول، پایتون، ری‌اکت یا وردپرس |
 | اتوماسیون، اسکرپینگ و ابزار اختصاصی | جمع‌آوری قیمت/محصول، گزارش دوره‌ای |
-| بک‌اند، API و سرور | پنل مدیریت، API موبایل، راه‌اندازی سرور |
+| بک‌اند، رابط برنامه‌نویسی و سرور | پنل مدیریت، رابط برنامه‌نویسی موبایل، راه‌اندازی سرور |
 </details>
 
 ---
@@ -230,7 +288,7 @@
 
 ---
 
-## 🛠️ Familiar Technologies
+## 🛠️ ابزارها و تکنولوژی‌های آشنا
 
 <div align="center">
 
@@ -251,25 +309,23 @@
 
 ---
 
-## 📚 سابقه‌ی کاری قدیمی‌تر
+## 📚 سابقه‌ی کاری قدیمی‌تر (۲۰۱۶ تا ۲۰۱۷ میلادی و پیش از آن)
 
 قبل از تولیدی‌محتوا، این‌ها بخشی از مسیر کاری‌ام بودن:
 
-- **توسعه‌دهنده‌ی فول‌استک، [@viraintel](https://github.com/viraintel)** — [shandroid.ir](http://shandroid.ir)
-- **[Telegram-Passcode-BruteForcer](https://github.com/Sepehr-Haddad/Telegram-Passcode-BruteForcer)** — ابزار پژوهشی بروت‌فورس پسکد اندروید تلگرام
-- **[iScan-Android](https://github.com/zdresearch/iScan-Android)** (@zdresearch) — کار با Nettacker API روی اندروید
-- **[OWASP-ZSC](https://github.com/Sepehr-Haddad/OWASP-ZSC)** — تولیدکننده و مبهم‌ساز Shellcode
-- **[z3r0d4y](https://github.com/Sepehr-Haddad/z3r0d4y)** — پژوهش Zero-Day
+- **(سابقه‌ی قبلی)** توسعه‌دهنده‌ی فول‌استک، **[@viraintel](https://github.com/viraintel)** — [shandroid.ir](http://shandroid.ir)
+- **(۲۰۱۶)** **[OWASP-ZSC](https://github.com/Sepehr-Haddad/OWASP-ZSC)** — تولیدکننده و مبهم‌ساز Shellcode
+- **(۲۰۱۶)** **[z3r0d4y](https://github.com/Sepehr-Haddad/z3r0d4y)** — پژوهش Zero-Day
+- **(۲۰۱۷)** **[Telegram-Passcode-BruteForcer](https://github.com/Sepehr-Haddad/Telegram-Passcode-BruteForcer)** — ابزار پژوهشی بروت‌فورس پسکد اندروید تلگرام
+- **(۲۰۱۷)** **[iScan-Android](https://github.com/zdresearch/iScan-Android)** (@zdresearch) — کار با Nettacker API روی اندروید
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sepehr-Haddad&show_icons=true&theme=radical&hide_border=true&locale=en)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sepehr-Haddad&theme=radical&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Sepehr-Haddad&theme=radical&no-frame=true&row=1&column=6)
+![Profile 3D Contribution Graph](https://raw.githubusercontent.com/Sepehr-Haddad/Sepehr-Haddad/main/profile-3d-contrib/profile-night-green.svg)
 
 **📩 برای سفارش یا همکاری:** [tolidimohtava.ir](https://www.tolidimohtava.ir) · [استخدام ادیتور](https://www.tolidimohtava.ir/hire/)
 
@@ -288,7 +344,7 @@ Full-stack developer and security researcher with close to two decades around we
 
 **Before tolidimohtava:**
 - Full-stack developer at **[@viraintel](https://github.com/viraintel)** — personal/work site: **[shandroid.ir](http://shandroid.ir)**
-- Security research & tooling — bruteforcing, shellcode obfuscation, zero-day research (full list under "Earlier Track Record" below)
+- Security research & tooling — bruteforcing, shellcode obfuscation, zero-day research (full, dated list under "Earlier Track Record" below)
 
 **Stack I work with daily:**
 
@@ -348,25 +404,66 @@ A slice of 93 real projects delivered to tolidimohtava clients — each shown wi
 | Beauty tutorial reel · 500,000 Toman | Tutorial reel · 500,000 Toman | Beauty tutorial reel · 500,000 Toman |
 | ![Medical reel](https://api.tolidimohtava.ir/api/v1/files/587f9fdb-940a-4c70-b6c5-eca64576fc30/thumbnail) | ![Medical reel](https://api.tolidimohtava.ir/api/v1/files/7fb618fc-a42d-49a2-8b5a-07a5f7e44323/thumbnail) | ![Medical reel](https://api.tolidimohtava.ir/api/v1/files/5174e8d0-2196-4790-8ec2-a2a6ef806c9d/thumbnail) |
 | Medical reel · 500,000 Toman | Medical reel · 500,000 Toman | Medical reel · 500,000 Toman |
-| ![Beauty reel](https://api.tolidimohtava.ir/api/v1/files/6a0aa49a-0f40-41b6-acef-a9235ab6c1d4/thumbnail) | ![Beauty reel](https://api.tolidimohtava.ir/api/v1/files/eab61306-c5ea-4e4d-97e7-968607c909c6/thumbnail) | ![Book launch post](https://api.tolidimohtava.ir/api/v1/files/6944282c-cedb-456d-abf9-4f9527aaf4c4/thumbnail) |
-| Beauty reel · 500,000 Toman | Beauty reel · 500,000 Toman | Book launch post · 894,000 Toman |
+| ![Beauty reel](https://api.tolidimohtava.ir/api/v1/files/6a0aa49a-0f40-41b6-acef-a9235ab6c1d4/thumbnail) | ![Beauty reel](https://api.tolidimohtava.ir/api/v1/files/eab61306-c5ea-4e4d-97e7-968607c909c6/thumbnail) | ![Beauty reel](https://api.tolidimohtava.ir/api/v1/files/d6b74753-d39a-4c0f-88c8-454f15c5a7bc/thumbnail) |
+| Beauty reel · 500,000 Toman | Beauty reel · 500,000 Toman | Beauty reel · 500,000 Toman |
 
 **[+ 81 more samples →](https://www.tolidimohtava.ir/samples-all/)**
 
 </div>
 
-### 🌐 Web Design Portfolio (custom-built, not WordPress)
+### 🌐 Web Design — Custom, PWA & WordPress
 
-Our own live portfolio piece is the very site you're reading this on — built with FastAPI and React, not WordPress. A few of the 35 custom sites we've shipped (each one is a live, clickable demo):
+Web design isn't a side service for us — it's a full specialty:
 
-| Project | Description | Link |
+- 🏗️ **Custom site with a dedicated admin panel** — built from scratch for your business: no template, no plugins. Staff access levels, inventory/accounting integration, large-scale storefronts — exactly the tool your business needs.
+- 📲 **PWA-capable (Progressive Web App)** — when needed, we build it so it installs on a phone like a native app and keeps working offline.
+- ⚙️ **Our stack:** Python + FastAPI on the server, Next.js + React + TypeScript on the client, PostgreSQL for data, on a server we manage ourselves — not shared hosting, not a pre-built theme.
+- 💰 **WordPress sites** — if budget is tight or you just need a landing page or small store: a ready-made theme customized for your business, fast and affordable. Good for a business intro page, a blog, an ad landing page, or a small shop.
+
+Our own live portfolio piece is the very site you're reading this on. **[Order a custom site →](https://www.tolidimohtava.ir/services/)** · **[Order a WordPress site →](https://www.tolidimohtava.ir/services/)**
+
+<details>
+<summary><b>See all 35 web design samples (each is a live, clickable demo)</b></summary>
+
+| # | Project | Link |
 |---|---|---|
-| Sarati | Luxury jewelry & accessories store | [Live demo](https://demo.tolidimohtava.ir/p753137/) |
-| Yadak-gostar Aria | Wholesale auto-parts catalog + quote form | [Live demo](https://demo.tolidimohtava.ir/p753527/) |
-| Signal-e-Talaye Arian | Gold trading-signal subscription landing page | [Live demo](https://demo.tolidimohtava.ir/p754949/) |
-| Arian | Gold market analysis & spot pricing | [Live demo](https://demo.tolidimohtava.ir/p755024/) |
-| WebAra | Single-page sales landing page | [Live demo](https://demo.tolidimohtava.ir/p755489/) |
-| Artaweb | Custom WordPress/Elementor landing page | [Live demo](https://demo.tolidimohtava.ir/p755579/) |
+| 1 | Sarati — luxury jewelry & accessories | [View](https://www.tolidimohtava.ir/web-design/portfolio/sarati/) |
+| 2 | Yadak-gostar Aria — wholesale auto parts | [View](https://www.tolidimohtava.ir/web-design/portfolio/yadak-gostar-aria/) |
+| 3 | Signal-e-Talaye Arian — gold trading signals | [View](https://www.tolidimohtava.ir/web-design/portfolio/arian-gold-signal/) |
+| 4 | Arian — gold market analytics | [View](https://www.tolidimohtava.ir/web-design/portfolio/arian-gold-analytics/) |
+| 5 | WebAra — single-page sales landing | [View](https://www.tolidimohtava.ir/web-design/portfolio/web-ara-landing/) |
+| 6 | Artaweb — custom WordPress/Elementor landing | [View](https://www.tolidimohtava.ir/web-design/portfolio/artaweb-landing/) |
+| 7 | Ariana Beauty Clinic | [View](https://www.tolidimohtava.ir/web-design/portfolio/ariana-beauty-clinic/) |
+| 8 | Shetab Motorcycle Academy | [View](https://www.tolidimohtava.ir/web-design/portfolio/shetab-moto-academy/) |
+| 9 | Bazarino — multi-vendor online store | [View](https://www.tolidimohtava.ir/web-design/portfolio/bazarino-shop/) |
+| 10 | Monamo Gold Gallery | [View](https://www.tolidimohtava.ir/web-design/portfolio/monamo-gold-gallery/) |
+| 11 | Novin Pardaz — tech & consulting solutions | [View](https://www.tolidimohtava.ir/web-design/portfolio/novin-pardaz/) |
+| 12 | Novin Web — web design studio | [View](https://www.tolidimohtava.ir/web-design/portfolio/novin-web/) |
+| 13 | Shimidan — chemistry exam-prep academy | [View](https://www.tolidimohtava.ir/web-design/portfolio/shimidan-academy/) |
+| 14 | Shahnameh-Pajoohi (Arash Kianifar) | [View](https://www.tolidimohtava.ir/web-design/portfolio/shahnameh-pajoohi/) |
+| 15 | Abrasan — cloud infrastructure services | [View](https://www.tolidimohtava.ir/web-design/portfolio/abrasan-cloud/) |
+| 16 | Pars Autoservice — auto parts & services | [View](https://www.tolidimohtava.ir/web-design/portfolio/pars-autoservice/) |
+| 17 | Hivan — online clothing store | [View](https://www.tolidimohtava.ir/web-design/portfolio/hivan-clothing/) |
+| 18 | Novin Market — online store | [View](https://www.tolidimohtava.ir/web-design/portfolio/novin-market/) |
+| 19 | Restaurant-Yar — restaurant management system | [View](https://www.tolidimohtava.ir/web-design/portfolio/restaurant-yar/) |
+| 20 | WebKaran — web design & development | [View](https://www.tolidimohtava.ir/web-design/portfolio/webkaran/) |
+| 21 | Sang-Ara — decorative & building stone | [View](https://www.tolidimohtava.ir/web-design/portfolio/sang-ara/) |
+| 22 | Jumbobag Kian — industrial bag manufacturing | [View](https://www.tolidimohtava.ir/web-design/portfolio/jumbobag-kian/) |
+| 23 | Artin Shop — online store | [View](https://www.tolidimohtava.ir/web-design/portfolio/artin-shop/) |
+| 24 | Vitrin Studio — 10 WooCommerce storefronts | [View](https://www.tolidimohtava.ir/web-design/portfolio/vitrin-studio/) |
+| 25 | Pouya Studio — creative animated landing page | [View](https://www.tolidimohtava.ir/web-design/portfolio/pouya-studio/) |
+| 26 | Divan-e Atr — specialty perfume product page | [View](https://www.tolidimohtava.ir/web-design/portfolio/divan-atr/) |
+| 27 | Pars Abzar — tools & hardware store | [View](https://www.tolidimohtava.ir/web-design/portfolio/pars-abzar/) |
+| 28 | Karyar — business management platform | [View](https://www.tolidimohtava.ir/web-design/portfolio/karyar/) |
+| 29 | Faranegar — content production studio | [View](https://www.tolidimohtava.ir/web-design/portfolio/faranegar/) |
+| 30 | Dastan-e Mehraban Charity | [View](https://www.tolidimohtava.ir/web-design/portfolio/dastan-mehraban/) |
+| 31 | Teb-Kala — medical equipment store | [View](https://www.tolidimohtava.ir/web-design/portfolio/teb-kala/) |
+| 32 | Part-Yar — nationwide auto-parts delivery | [View](https://www.tolidimohtava.ir/web-design/portfolio/part-yar/) |
+| 33 | Rahbord Studio — branding & digital marketing | [View](https://www.tolidimohtava.ir/web-design/portfolio/rahbord-studio/) |
+| 34 | Golbarg — natural skincare products | [View](https://www.tolidimohtava.ir/web-design/portfolio/golbarg-skincare/) |
+| 35 | Ghab-Negar — small-display UI design | [View](https://www.tolidimohtava.ir/web-design/portfolio/ghabnegar-ui/) |
+
+</details>
 
 ---
 
@@ -467,7 +564,7 @@ Prices are "starting from"; the live, complete list always lives on **[tolidimoh
 
 | Service | Price |
 |---|---|
-| Custom site with CMS (no template, no plugins) | 15,000,000 Toman |
+| Custom site with dedicated admin panel (no template, no plugins) | 15,000,000 Toman |
 | WordPress site | 10,000,000 Toman |
 | Website admin (monthly) | 7,500,000 Toman/mo |
 </details>
@@ -513,25 +610,23 @@ Prices are "starting from"; the live, complete list always lives on **[tolidimoh
 
 ---
 
-## 📚 Earlier Track Record
+## 📚 Earlier Track Record (2016–2017 and before)
 
 Before tolidimohtava, this was part of my path:
 
-- **Full-stack developer, [@viraintel](https://github.com/viraintel)** — [shandroid.ir](http://shandroid.ir)
-- **[Telegram-Passcode-BruteForcer](https://github.com/Sepehr-Haddad/Telegram-Passcode-BruteForcer)** — Android Telegram passcode bruteforce research tool
-- **[iScan-Android](https://github.com/zdresearch/iScan-Android)** (@zdresearch) — working with the Nettacker API on Android devices
-- **[OWASP-ZSC](https://github.com/Sepehr-Haddad/OWASP-ZSC)** — shellcode/obfuscate code generator
-- **[z3r0d4y](https://github.com/Sepehr-Haddad/z3r0d4y)** — zero-day research
+- **(earlier chapter)** Full-stack developer, **[@viraintel](https://github.com/viraintel)** — [shandroid.ir](http://shandroid.ir)
+- **(2016)** **[OWASP-ZSC](https://github.com/Sepehr-Haddad/OWASP-ZSC)** — shellcode/obfuscate code generator
+- **(2016)** **[z3r0d4y](https://github.com/Sepehr-Haddad/z3r0d4y)** — zero-day research
+- **(2017)** **[Telegram-Passcode-BruteForcer](https://github.com/Sepehr-Haddad/Telegram-Passcode-BruteForcer)** — Android Telegram passcode bruteforce research tool
+- **(2017)** **[iScan-Android](https://github.com/zdresearch/iScan-Android)** (@zdresearch) — working with the Nettacker API on Android devices
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sepehr-Haddad&show_icons=true&theme=radical&hide_border=true&locale=en)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sepehr-Haddad&theme=radical&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Sepehr-Haddad&theme=radical&no-frame=true&row=1&column=6)
+![Profile 3D Contribution Graph](https://raw.githubusercontent.com/Sepehr-Haddad/Sepehr-Haddad/main/profile-3d-contrib/profile-night-green.svg)
 
 **📩 For orders or collaboration:** [tolidimohtava.ir](https://www.tolidimohtava.ir) · [Hire an editor](https://www.tolidimohtava.ir/hire/)
 
