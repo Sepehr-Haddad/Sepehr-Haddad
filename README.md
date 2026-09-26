@@ -323,7 +323,7 @@ https://www.tolidimohtava.ir
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sepehr-Haddad&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sepehr-Haddad&theme=radical&hide_border=true&mode=weekly)
 
 ![Profile 3D Contribution Graph](https://raw.githubusercontent.com/Sepehr-Haddad/Sepehr-Haddad/main/profile-3d-contrib/profile-night-green.svg)
 
@@ -624,7 +624,7 @@ Before tolidimohtava, this was part of my path:
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sepehr-Haddad&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sepehr-Haddad&theme=radical&hide_border=true&mode=weekly)
 
 ![Profile 3D Contribution Graph](https://raw.githubusercontent.com/Sepehr-Haddad/Sepehr-Haddad/main/profile-3d-contrib/profile-night-green.svg)
 
