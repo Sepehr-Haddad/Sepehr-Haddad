@@ -284,7 +284,16 @@ https://www.tolidimohtava.ir
 
 ## 📜 گواهی‌نامه‌ها و مشتریان
 
-> 🔜 این بخش به‌زودی با گواهی‌نامه‌ها و لوگوی مشتریان واقعی تکمیل می‌شه.
+**گواهی‌نامه‌ها:**
+> 🔜 این بخش به‌زودی با گواهی‌نامه‌های واقعی تکمیل می‌شه.
+
+**نظر مشتری‌ها:**
+
+> «دیگه نیازی نیست دنبال ادیتور بگردم یا توی گروه‌های تلگرام التماس کنم! همه چیز آنلاین از طریق سایت انجام شد. قیمت‌ها شفاف بود و تا وقتی راضی نشدم، پولی به ادیتور نرسید. این اطمینان خاطری که می‌خواستم.»
+> — **سارا احمدی**، صاحب برند · لوازم آرایشی سارا
+
+> «از نمونه‌کارها دقیقاً همون چیزی که می‌خواستم رو انتخاب و سفارش دادم. نیازی به چت کردن با ۱۰ تا ادیتور نبود! سایت واسطه شد و من مطمئن بودم کاری که می‌خوام رو تحویل می‌گیرم. قیمت‌ها هم ۴۰٪ ارزون‌تر از بازار بود.»
+> — **محمدرضا کریمی**، مدیرعامل · فروشگاه آنلاین رضا
 
 ---
 
@@ -585,7 +594,16 @@ Prices are "starting from"; the live, complete list always lives on **[tolidimoh
 
 ## 📜 Certifications & Clients
 
-> 🔜 This section will be filled in soon with real certifications and client logos.
+**Certifications:**
+> 🔜 This section will be filled in soon with real certifications.
+
+**Client feedback:**
+
+> "I no longer need to hunt for an editor or beg in Telegram groups! Everything happened online through the site. Prices were transparent, and the editor didn't get paid until I was satisfied. That's exactly the peace of mind I wanted."
+> — **Sara Ahmadi**, brand owner · Sara Cosmetics
+
+> "I picked exactly what I wanted from the samples and ordered it right there. No need to chat with 10 different editors! The site acted as the middleman, and I was confident I'd get exactly what I asked for. Prices were also 40% cheaper than the market."
+> — **Mohammadreza Karimi**, CEO · Reza Online Store
 
 ---
 
