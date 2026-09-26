@@ -336,8 +336,6 @@ https://www.tolidimohtava.ir
 
 ![Profile 3D Contribution Graph](https://raw.githubusercontent.com/Sepehr-Haddad/Sepehr-Haddad/main/profile-3d-contrib/profile-night-green.svg)
 
-![Most Used Languages](https://raw.githubusercontent.com/Sepehr-Haddad/Sepehr-Haddad/main/generated/languages.svg)
-
 **📩 برای سفارش یا همکاری:** [tolidimohtava.ir](https://www.tolidimohtava.ir) · [استخدام ادیتور](https://www.tolidimohtava.ir/hire/)
 
 </div>
@@ -647,8 +645,6 @@ Before tolidimohtava, this was part of my path:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sepehr-Haddad&theme=radical&hide_border=true&mode=weekly)
 
 ![Profile 3D Contribution Graph](https://raw.githubusercontent.com/Sepehr-Haddad/Sepehr-Haddad/main/profile-3d-contrib/profile-night-green.svg)
-
-![Most Used Languages](https://raw.githubusercontent.com/Sepehr-Haddad/Sepehr-Haddad/main/generated/languages.svg)
 
 **📩 For orders or collaboration:** [tolidimohtava.ir](https://www.tolidimohtava.ir) · [Hire an editor](https://www.tolidimohtava.ir/hire/)
 
